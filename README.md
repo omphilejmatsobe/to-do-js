@@ -26,7 +26,7 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 | Filename |
 | ------ |
 | [html](https://github.com/omphilejmatsobe/to-do-js/blob/master/index.html)|
-| [javascript](https://github.com/omphilejmatsobe/to-do-js/blob/master/index.html)|
+| [javascript](https://github.com/omphilejmatsobe/to-do-js/blob/master/script.js)|
 
 ## ScreenShots :bookmark_tabs:
 
