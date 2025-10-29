@@ -30,21 +30,22 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 
 ## ScreenShots :bookmark_tabs:
 
-Add:
+## Add:
 
-<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/1.png"></img
 ![Local Image](images/1.png)
 
-Delete:
+## Delete:
 
-<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/2.png"></img>
+![Local Image](images/3.png)
 
-Edit:
+## Edit:
 
-<img width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/3.png"></img>
+![Local Image](images/4.png)
+>
 
-Error:
+## Error:
 
-<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/4.png"></img>
+![Local Image](images/5.png)
+
 
 
