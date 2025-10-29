@@ -36,9 +36,14 @@ Add:
 
 Delete:
 
+<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/2.png"></img>
+
 Edit:
+
+<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/3.png"></img>
 
 Error:
 
+<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/4.png"></img>
 
 
