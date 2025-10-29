@@ -32,18 +32,18 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 
 Add:
 
-<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/1.png"></img>
+<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/1.png"></img>
 
 Delete:
 
-<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/2.png"></img>
+<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/2.png"></img>
 
 Edit:
 
-<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/3.png"></img>
+<img width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/3.png"></img>
 
 Error:
 
-<img height="300" width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/4.png"></img>
+<img  width="300" src="https://github.com/omphilejmatsobe/to-do-js/blob/master/images/4.png"></img>
 
 
