@@ -33,7 +33,6 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 ## Add:
 
 ![Local Image](images/1.png)
-![Local Image](images/2.png)
 ![Local Image](images/3.png)
 ## Delete:
 
