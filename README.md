@@ -42,11 +42,10 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 ## Edit:
 
 ![Local Image](images/4.png)
+![Local Image](images/5.png)
+![Local Image](images/6.png)
 >
 
-## Error:
-
-![Local Image](images/5.png)
 
 
 
