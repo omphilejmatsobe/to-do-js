@@ -51,7 +51,7 @@ function editTask (e)
         return
     }
 
-    textSpan.textContent = newText;  
+    text.textContent = newText;  
     
 }
 
